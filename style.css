@@ -35,5 +35,15 @@ p {
     color:rgb(0, 0, 0);
     border:  1px dashed;
     text-align: center; 
+    margin-right: 300px;
+
+}
+
+}
+#elixire {
+
+border: solid #a7cece;
+width: 280px;
+float: right;
 
 }
